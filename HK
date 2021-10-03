@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1,TVB 翡翠台
+http://livetv.dnsfor.me:80/channel.18.m3u8
+#EXTINF:-1,無綫J2
+http://livetv.dnsfor.me:80/channel.19.m3u8
+#EXTINF:-1,無綫新聞台
+http://livetv.dnsfor.me:80/channel.10.m3u8
+#EXTINF:-1,無綫財經資訊台
+http://livetv.dnsfor.me:80/channel.11.m3u8
+#EXTINF:-1,Now直播台
+http://livetv.dnsfor.me:80/channel.3.m3u8
+#EXTINF:-1,Now新聞台
+http://livetv.dnsfor.me:80/channel.4.m3u8
