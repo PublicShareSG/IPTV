@@ -1,6 +1,10 @@
 #EXTM3U
 #EXTINF:-1 group-title="HK",翡翠台
 http://livetv.dnsfor.me:80/channel.18.m3u8
+#EXTINF:-1 group-title="HK",翡翠台 2
+http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=188&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=1&Pcontent_id=.m3u8&Provider_id=
+#EXTINF:-1 group-title="HK",翡翠台 3
+http://61.238.6.49:8000/bysid/1
 #EXTINF:-1 group-title="HK",無綫J2
 http://livetv.dnsfor.me:80/channel.19.m3u8
 #EXTINF:-1 group-title="HK",無綫新聞台
@@ -11,3 +15,19 @@ http://livetv.dnsfor.me:80/channel.11.m3u8
 http://livetv.dnsfor.me:80/channel.3.m3u8
 #EXTINF:-1 group-title="HK",Now新聞台
 http://livetv.dnsfor.me:80/channel.4.m3u8
+#EXTINF:-1 group-title="澳门",澳视澳门
+http://61.244.22.4/ch1/ch1.live/playelist.m3u8
+#EXTINF:-1 group-title="澳门",澳视澳门2
+http://live3.tdm.com.mo:1935/ch1/ch1.live/playlist.m3u8
+#EXTINF:-1 tvg-id="GuangDongXinWen.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="广东",广东新闻 (576p)
+http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=84&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
+#EXTINF:-1 tvg-id="GuangDongZhuJiang.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="广东",广东珠江 (1080p)
+http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=79&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
+#EXTINF:-1 tvg-id="GuangDongJingJiKeJiao.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="广东",广东经济科教 (576p)
+http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=20&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
+#EXTINF:-1 tvg-id="GuangDongZongYi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="广东",广东综艺
+http://116.199.5.52:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=79&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
+#EXTINF:-1 tvg-id="GuangZhouYingShi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="广东",广州影视 (576p)
+http://116.199.5.52:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=46&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
+#EXTINF:-1 tvg-id="GuangZhouXinWen.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="广东",广州新闻 (1080p)
+http://116.199.5.51:8114/00000000/index.m3u8?
