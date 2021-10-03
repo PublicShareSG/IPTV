@@ -19,5 +19,13 @@ http://61.244.22.4/ch1/ch1.live/playelist.m3u8
 http://live3.tdm.com.mo:1935/ch1/ch1.live/playlist.m3u8
 #EXTINF:-1 group-title="HK",TVB 星河
 http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
-#EXTINF:-1 group-title="HK", ViuTV
+#EXTINF:-1 group-title="HK",ViuTV
 https://cdn.hkdtmb.com/hls/99/index.m3u8
+#EXTINF:-1 group-title="HK",港台電視31
+https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
+#EXTINF:-1 group-title="HK",港台電視32
+https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
+#EXTINF:-1 group-title="HK",香港衛視
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1 group-title="HK",香港开电视
+http://media.fantv.hk/m3u8/archive/channel2.m3u8
