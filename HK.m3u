@@ -17,25 +17,3 @@ http://livetv.dnsfor.me:80/channel.4.m3u8
 http://61.244.22.4/ch1/ch1.live/playelist.m3u8
 #EXTINF:-1 group-title="澳门",澳视澳门2
 http://live3.tdm.com.mo:1935/ch1/ch1.live/playlist.m3u8
-#EXTINF:-1 group-title="广东",广东新闻
-http://112.90.72.209:9009/live/chid=66
-#EXTINF:-1 group-title="广东",广东新闻2
-广东新闻,http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227674/index.m3u8
-#EXTINF:-1 group-title="广东",广东珠江
-rtp://239.0.1.6:5003
-#EXTINF:-1 group-title="广东",广东珠江2
-http://112.90.72.209:9009/live/chid=58
-#EXTINF:-1, group-title="广东",广东珠江
-rtp://239.77.0.3:5146
-#EXTINF:-1, group-title="广东",广东珠江2
-rtp://239.77.1.94:5146
-#EXTINF:-1, group-title="广东",广东珠江高清
-rtp://239.77.0.1:5146
-#EXTINF:-1, group-title="广东",广东珠江超清
-rtp://239.77.0.114:5146
-#EXTINF:-1, group-title="广东",广东新闻
-rtp://239.77.0.4:5146
-#EXTINF:-1 ,group-title="广东",广东新闻2
-rtp://239.77.0.190:5146
-#EXTINF:-1, group-title="广东",广东新闻高清
-rtp://239.77.0.173:5146
