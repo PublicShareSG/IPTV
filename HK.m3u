@@ -17,3 +17,7 @@ http://livetv.dnsfor.me:80/channel.4.m3u8
 http://61.244.22.4/ch1/ch1.live/playelist.m3u8
 #EXTINF:-1 group-title="澳门",澳视澳门2
 http://live3.tdm.com.mo:1935/ch1/ch1.live/playlist.m3u8
+#EXTINF:-1 group-title="HK",TVB 星河
+http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
+#EXTINF:-1 group-title="HK", ViuTV
+https://cdn.hkdtmb.com/hls/99/index.m3u8
