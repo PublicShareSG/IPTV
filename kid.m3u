@@ -1,25 +1,2 @@
 #EXTINF:-1 tvg-id="HBOFamilyEast.us" tvg-country="US" tvg-language="English" tvg-logo="https://static.epg.best/us/HBOFamily.us.png" group-title="Kids",HBO Family East (1080p)
 https://liveorigin01.hbogoasia.com:8443/origin/live/FAMILY/index.m3u8
-#EXTINF:0 type="stream" channelId="177",Fox
-http://151.80.27.111:25461/live/Luisalberto/556610/75.ts
-
-#EXTINF:0 type="stream" channelId="208",Fox HD
-http://151.80.27.111:25461/live/Luisalberto/556610/291.ts
-
-#EXTINF:0 type="stream" channelId="1330",HBO
-http://151.80.27.111:25461/live/Luisalberto/556610/69.ts
-
-#EXTINF:0 type="stream" channelId="935",HBO 2
-http://151.80.27.111:25461/live/Luisalberto/556610/107.ts
-
-#EXTINF:0 type="stream" channelId="2584",HBO Family
-http://151.80.27.111:25461/live/Luisalberto/556610/108.ts
-
-#EXTINF:0 type="stream" channelId="2585",HBO Plus
-http://151.80.27.111:25461/live/Luisalberto/556610/68.ts
-
-#EXTINF:0 type="stream" channelId="2723",HBO Plus HD
-http://151.80.27.111:25461/live/Luisalberto/556610/525.ts
-
-#EXTINF:0 type="stream" channelId="2583",HBO Signature
-http://151.80.27.111:25461/live/Luisalberto/556610/67.ts
