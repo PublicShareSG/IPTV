@@ -1,18 +1,2 @@
 #EXTINF:-1 tvg-id="HBOFamilyEast.us" tvg-country="US" tvg-language="English" tvg-logo="https://static.epg.best/us/HBOFamily.us.png" group-title="Kids",HBO Family East (1080p)
 https://liveorigin01.hbogoasia.com:8443/origin/live/FAMILY/index.m3u8
-#EXTINF:-1 group-title="Kids",Disney Channel
-http://iptvportuguese.live:8010/TreeT20ex/CuEwSQEMrL6BsmNs/16656
-#EXTINF:-1 group-title=""Kids",Disney Junior
-http://iptvportuguese.live:8010/TreeT20ex/CuEwSQEMrL6BsmNs/16657
-#EXTINF:-1 group-title="Kids",Disney-XD
-http://iptvportuguese.live:8010/TreeT20ex/CuEwSQEMrL6BsmNs/16658
-#EXTINF:-1, group-title="Kids",CARTOON-NETWORK
-http://iptvportuguese.live:8010/TreeT20ex/CuEwSQEMrL6BsmNs/16655
-#EXTINF:-1 group-title="Kids",Disney-XD (2)
-http://new-pro.tv:8080/Hotel-2021/Allroom/70381
-#EXTINF:-1 group-title=""Kids",Disney Junior (2)
-http://new-pro.tv:8080/Hotel-2021/Allroom/70382
-#EXTINF:-1 group-title="Kids",Disney Channel (2)
-http://new-pro.tv:8080/Hotel-2021/Allroom/70383
-#EXTINF:-1 group-title="Kids",Universal Kids
-http://new-pro.tv:8080/Hotel-2021/Allroom/70385
