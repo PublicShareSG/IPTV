@@ -1,56 +1,65 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/x33MwPN.png" group-title="Infantil",Retrô Cartoon
-http://stmv2.srvstm.com:1935/cartoonr/cartoonr/playlist.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://s30.postimg.org/dmcu8wn69/Baby_TV.png" group-title="Infantil",Baby TV
-
-#EXTINF:-1 tvg-id="TV Rá-Tim-Bum" tvg-logo="http://i.imgur.com/0HQ20e3.png" group-title="Infantil",TV Rá-Tim-Bum
-
-#EXTINF:-1 tvg-id="Boomerang" tvg-logo="http://i.imgur.com/syou7kI.png" group-title="Infantil",Boomerang
-http://listaiptv.brcs.ml:8080/SD_BOOMERANG/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
-
-#EXTINF:-1 tvg-id="Tooncast" tvg-logo="http://i.imgur.com/ggVGWjw.png" group-title="Infantil",Tooncast
-http://listaiptv.brcs.ml:8080/SD_TOONCAST/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
-
-#EXTINF:-1 tvg-id="Nick" tvg-logo="http://s20.postimg.org/e7rgp8w3t/nick.png" group-title="Infantil",Nickelodeon
-http://tv.ec.cx:1935/redecanais-stream-nick/myStream/chunklist.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="Nick" tvg-logo="http://s20.postimg.org/e7rgp8w3t/nick.png" group-title="Infantil",Nickelodeon HD
-http://listaiptv.brcs.ml:8080/SD_NICKELODEON/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
-
-#EXTINF:-1 tvg-id="Nick Jr." tvg-logo="http://s20.postimg.org/x0fqbxhu1/Nick_Jr.png" group-title="Infantil",Nick Jr.
-http://listaiptv.brcs.ml:8080/SD_NICK_JR/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
-
-#EXTINF:-1 tvg-id="Gloob [Brazil]" tvg-logo="http://s20.postimg.org/sn3eoa4y1/Gloob.png" group-title="Infantil",Gloob
-http://listaiptv.brcs.ml:8080/SD_GLOOB/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
-
-#EXTINF:-1 tvg-id="Gloob [Brazil]" tvg-logo="http://s20.postimg.org/sn3eoa4y1/Gloob.png" group-title="Infantil",Gloob HD
-http://listaiptv.brcs.ml:8080/HD_GLOOB/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
-
-#EXTINF:-1 tvg-id="Cartoon Network" tvg-logo="http://s20.postimg.org/x27jhejrh/Cartoon_Network.png" group-title="Infantil",Cartoon Network
-http://95.141.35.104:8081/look/cartoon/playlist.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="Cartoon Network" tvg-logo="http://s20.postimg.org/x27jhejrh/Cartoon_Network.png" group-title="Infantil",Cartoon Network HD
-http://listaiptv.brcs.ml:8080/HD_CARTOON_NETWORK/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
-
-#EXTINF:-1 tvg-id="Disney XD" tvg-logo="http://s20.postimg.org/y2714ldop/Disney_XD.png" group-title="Infantil",Disney XD
-http://tv.ec.cx:1935/redecanais-stream-disneyxd/myStream/chunklist.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="Disney XD" tvg-logo="http://s20.postimg.org/y2714ldop/Disney_XD.png" group-title="Infantil",Disney XD HD
-http://listaiptv.brcs.ml:8080/SD_DISNEY_XD/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
-
-#EXTINF:-1 tvg-id="Discovery Kids" tvg-logo="http://s20.postimg.org/o9v67go09/Discovery_Kids.png" group-title="Infantil",Discovery Kids
-http://95.141.35.104:8081/look/discoverykids1/playlist.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="Discovery Kids" tvg-logo="http://s20.postimg.org/o9v67go09/Discovery_Kids.png" group-title="Infantil",Discovery Kids HD
-http://listaiptv.brcs.ml:8080/HD_DISCOVERY_KIDS/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
-
-#EXTINF:-1 tvg-id="Disney Junior" tvg-logo="http://s20.postimg.org/fb53ufj49/Disney_Jr.png" group-title="Infantil",Disney Junior
-http://listaiptv.brcs.ml:8080/SD_DISNEY_JR/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
-
-#EXTINF:-1 tvg-id="Disney Channel" tvg-logo="http://s20.postimg.org/p5rnmwxot/Disney_Channel.png" group-title="Infantil",Disney Channel
-http://listaiptv.brcs.ml:8080/SD_DISNEY/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
-
-#EXTINF:-1 tvg-id="Disney Channel" tvg-logo="http://s20.postimg.org/p5rnmwxot/Disney_Channel.png" group-title="Infantil",Disney Channel HD
-http://listaiptv.brcs.ml:8080/HD_DISNEY/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
+#EXTINF:-1 tvg-id="baby.first.tv.us" tvg-name="baby.first.tv.us" tvg-type="live" group-title="Kids" tvg-logo="https://media.tv4.live/baby.first.tv.us.png",Baby Tv US
+https://tv4.live/api/stream/dmrwolfieofficial@gmail.com/357164/livetv.epg/baby.first.tv.us.m3u8
+#EXTINF:-1 tvg-id="baby.tv.us" tvg-name="baby.tv.us" tvg-type="live" group-title="Kids" tvg-logo="https://media.tv4.live/baby.tv.us.png",Baby TV US
+https://tv4.live/api/stream/dmrwolfieofficial@gmail.com/357164/livetv.epg/baby.tv.us.m3u8
+#EXTINF:-1 tvg-id="boomerang.us" tvg-name="boomerang.us" tvg-type="live" group-title="Kids" tvg-logo="https://media.tv4.live/boomerang.us.png",Boomerang
+https://tv4.live/api/stream/dmrwolfieofficial@gmail.com/357164/livetv.epg/boomerang.us.m3u8
+#EXTINF:-1 tvg-id="boomerang.uk" tvg-name="boomerang.uk" tvg-type="live" group-title="Kids" tvg-logo="https://media.tv4.live/boomerang.uk.png",Boomerang UK
+https://tv4.live/api/stream/dmrwolfieofficial@gmail.com/357164/livetv.epg/boomerang.uk.m3u8
+#EXTINF:-1 tvg-id="cartoon.network.usa.eastern.us" tvg-name="cartoon.network.usa.eastern.us" tvg-type="live" group-title="Kids" tvg-logo="https://media.tv4.live/cartoon.network.usa.eastern.us.png",Cartoon Network (East) US
+https://tv4.live/api/stream/dmrwolfieofficial@gmail.com/357164/livetv.epg/cartoon.network.usa.eastern.us.m3u8
+#EXTINF:-1 tvg-id="cartoon.network.usa.pacific.us" tvg-name="cartoon.network.usa.pacific.us" tvg-type="live" group-title="Kids" tvg-logo="https://media.tv4.live/cartoon.network.usa.pacific.us.png",Cartoon Network (West) US
+https://tv4.live/api/stream/dmrwolfieofficial@gmail.com/357164/livetv.epg/cartoon.network.usa.pacific.us.m3u8
+#EXTINF:-1 tvg-id="cartoon.network.uk" tvg-name="cartoon.network.uk" tvg-type="live" group-title="Kids" tvg-logo="https://media.tv4.live/cartoon.network.uk.png",Cartoon Network UK
+https://tv4.live/api/stream/dmrwolfieofficial@gmail.com/357164/livetv.epg/cartoon.network.uk.m3u8
+#EXTINF:-1 tvg-id="cartoonito.uk" tvg-name="cartoonito.uk" tvg-type="live" group-title="Kids" tvg-logo="https://media.tv4.live/cartoonito.uk.png",Cartoonito UK
+https://tv4.live/api/stream/dmrwolfieofficial@gmail.com/357164/livetv.epg/cartoonito.uk.m3u8
+#EXTINF:-1 tvg-id="cbbc.uk" tvg-name="cbbc.uk" tvg-type="live" group-title="Kids" tvg-logo="https://media.tv4.live/cbbc.uk.png",CBBC
+https://tv4.live/api/stream/dmrwolfieofficial@gmail.com/357164/livetv.epg/cbbc.uk.m3u8
+#EXTINF:-1 tvg-id="cbeebies.uk" tvg-name="cbeebies.uk" tvg-type="live" group-title="Kids" tvg-logo="https://media.tv4.live/cbeebies.uk.png",Cbeebies UK
+https://tv4.live/api/stream/dmrwolfieofficial@gmail.com/357164/livetv.epg/cbeebies.uk.m3u8
+#EXTINF:-1 tvg-id="disney.channel.canada.east.ca" tvg-name="disney.channel.canada.east.ca" tvg-type="live" group-title="Kids" tvg-logo="https://media.tv4.live/disney.channel.canada.east.ca.png",Disney Channel (East) CA
+https://tv4.live/api/stream/dmrwolfieofficial@gmail.com/357164/livetv.epg/disney.channel.canada.east.ca.m3u8
+#EXTINF:-1 tvg-id="disney.eastern.us" tvg-name="disney.eastern.us" tvg-type="live" group-title="Kids" tvg-logo="https://media.tv4.live/disney.eastern.us.png",Disney Channel (East) US
+https://tv4.live/api/stream/dmrwolfieofficial@gmail.com/357164/livetv.epg/disney.eastern.us.m3u8
+#EXTINF:-1 tvg-id="disney.junior.usa.east.us" tvg-name="disney.junior.usa.east.us" tvg-type="live" group-title="Kids" tvg-logo="https://media.tv4.live/disney.junior.usa.east.us.png",Disney Jr (East) US
+https://tv4.live/api/stream/dmrwolfieofficial@gmail.com/357164/livetv.epg/disney.junior.usa.east.us.m3u8
+#EXTINF:-1 tvg-id="disney.jr.uk" tvg-name="disney.jr.uk" tvg-type="live" group-title="Kids" tvg-logo="https://media.tv4.live/disney.jr.uk.png",Disney Jr UK
+https://tv4.live/api/stream/dmrwolfieofficial@gmail.com/357164/livetv.epg/disney.jr.uk.m3u8
+#EXTINF:-1 tvg-id="disney.junior.canada.ca" tvg-name="disney.junior.canada.ca" tvg-type="live" group-title="Kids" tvg-logo="https://media.tv4.live/disney.junior.canada.ca.png",Disney Junior CA
+https://tv4.live/api/stream/dmrwolfieofficial@gmail.com/357164/livetv.epg/disney.junior.canada.ca.m3u8
+#EXTINF:-1 tvg-id="disney.uk" tvg-name="disney.uk" tvg-type="live" group-title="Kids" tvg-logo="https://media.tv4.live/disney.uk.png",Disney UK
+https://tv4.live/api/stream/dmrwolfieofficial@gmail.com/357164/livetv.epg/disney.uk.m3u8
+#EXTINF:-1 tvg-id="disney.xd.usa.eastern.us" tvg-name="disney.xd.usa.eastern.us" tvg-type="live" group-title="Kids" tvg-logo="https://media.tv4.live/disney.xd.usa.eastern.us.png",Disney Xd (East) US
+https://tv4.live/api/stream/dmrwolfieofficial@gmail.com/357164/livetv.epg/disney.xd.usa.eastern.us.m3u8
+#EXTINF:-1 tvg-id="disney.xd.canada.ca" tvg-name="disney.xd.canada.ca" tvg-type="live" group-title="Kids" tvg-logo="https://media.tv4.live/disney.xd.canada.ca.png",Disney XD CA
+https://tv4.live/api/stream/dmrwolfieofficial@gmail.com/357164/livetv.epg/disney.xd.canada.ca.m3u8
+#EXTINF:-1 tvg-id="disney.xd.uk" tvg-name="disney.xd.uk" tvg-type="live" group-title="Kids" tvg-logo="https://media.tv4.live/disney.xd.uk.png",Disney Xd UK
+https://tv4.live/api/stream/dmrwolfieofficial@gmail.com/357164/livetv.epg/disney.xd.uk.m3u8
+#EXTINF:-1 tvg-id="nick.jr.us" tvg-name="nick.jr.us" tvg-type="live" group-title="Kids" tvg-logo="https://media.tv4.live/nick.jr.us.png",Nick Jr US
+https://tv4.live/api/stream/dmrwolfieofficial@gmail.com/357164/livetv.epg/nick.jr.us.m3u8
+#EXTINF:-1 tvg-id="nickelodeon.usa.east.us" tvg-name="nickelodeon.usa.east.us" tvg-type="live" group-title="Kids" tvg-logo="https://media.tv4.live/nickelodeon.usa.east.us.png",Nickelodeon (East) US
+https://tv4.live/api/stream/dmrwolfieofficial@gmail.com/357164/livetv.epg/nickelodeon.usa.east.us.m3u8
+#EXTINF:-1 tvg-id="nickelodeon.canada.ca" tvg-name="nickelodeon.canada.ca" tvg-type="live" group-title="Kids" tvg-logo="https://media.tv4.live/nickelodeon.canada.ca.png",Nickelodeon CA
+https://tv4.live/api/stream/dmrwolfieofficial@gmail.com/357164/livetv.epg/nickelodeon.canada.ca.m3u8
+#EXTINF:-1 tvg-id="nickelodeon.uk" tvg-name="nickelodeon.uk" tvg-type="live" group-title="Kids" tvg-logo="https://media.tv4.live/nickelodeon.uk.png",Nickelodeon UK
+https://tv4.live/api/stream/dmrwolfieofficial@gmail.com/357164/livetv.epg/nickelodeon.uk.m3u8
+#EXTINF:-1 tvg-id="nickmusic.us" tvg-name="nickmusic.us" tvg-type="live" group-title="Kids" tvg-logo="https://media.tv4.live/nickmusic.us.png",NickMusic US
+https://tv4.live/api/stream/dmrwolfieofficial@gmail.com/357164/livetv.epg/nickmusic.us.m3u8
+#EXTINF:-1 tvg-id="nicktoons.east.us" tvg-name="nicktoons.east.us" tvg-type="live" group-title="Kids" tvg-logo="https://media.tv4.live/nicktoons.east.us.png",Nicktoons US
+https://tv4.live/api/stream/dmrwolfieofficial@gmail.com/357164/livetv.epg/nicktoons.east.us.m3u8
+#EXTINF:-1 tvg-id="pbs.kids.us" tvg-name="pbs.kids.us" tvg-type="live" group-title="Kids" tvg-logo="https://media.tv4.live/pbs.kids.us.png",PBS Kids US
+https://tv4.live/api/stream/dmrwolfieofficial@gmail.com/357164/livetv.epg/pbs.kids.us.m3u8
+#EXTINF:-1 tvg-id="pop.max.uk" tvg-name="pop.max.uk" tvg-type="live" group-title="Kids" tvg-logo="https://media.tv4.live/pop.max.uk.png",POP Max UK
+https://tv4.live/api/stream/dmrwolfieofficial@gmail.com/357164/livetv.epg/pop.max.uk.m3u8
+#EXTINF:-1 tvg-id="pop.uk" tvg-name="pop.uk" tvg-type="live" group-title="Kids" tvg-logo="https://media.tv4.live/pop.uk.png",POP UK
+https://tv4.live/api/stream/dmrwolfieofficial@gmail.com/357164/livetv.epg/pop.uk.m3u8
+#EXTINF:-1 tvg-id="teennick.eastern.us" tvg-name="teennick.eastern.us" tvg-type="live" group-title="Kids" tvg-logo="https://media.tv4.live/teennick.eastern.us.png",TeenNick (East) US
+https://tv4.live/api/stream/dmrwolfieofficial@gmail.com/357164/livetv.epg/teennick.eastern.us.m3u8
+#EXTINF:-1 tvg-id="tiny.pop.uk" tvg-name="tiny.pop.uk" tvg-type="live" group-title="Kids" tvg-logo="https://media.tv4.live/tiny.pop.uk.png",Tiny Pop UK
+https://tv4.live/api/stream/dmrwolfieofficial@gmail.com/357164/livetv.epg/tiny.pop.uk.m3u8
+#EXTINF:-1 tvg-id="treehouse.ca" tvg-name="treehouse.ca" tvg-type="live" group-title="Kids" tvg-logo="https://media.tv4.live/treehouse.ca.png",Treehouse CA
+https://tv4.live/api/stream/dmrwolfieofficial@gmail.com/357164/livetv.epg/treehouse.ca.m3u8
+#EXTINF:-1 tvg-id="universal.kids.us" tvg-name="universal.kids.us" tvg-type="live" group-title="Kids" tvg-logo="https://media.tv4.live/universal.kids.us.png",Universal Kids US
+https://tv4.live/api/stream/dmrwolfieofficial@gmail.com/357164/livetv.epg/universal.kids.us.m3u8
