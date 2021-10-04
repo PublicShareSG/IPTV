@@ -2,3 +2,11 @@
 https://liveorigin01.hbogoasia.com:8443/origin/live/FAMILY/index.m3u8
 #EXTINF:0 tvg-name="Disney Jr" tvg-language="English" tvg-country="US" tvg-id="Disney Jr" tvg-logo="http://vignette1.wikia.nocookie.net/disney/images/8/83/Disney_Junior_Logo.png/revision/latest%3Fcb%3D20150813204736" group-title="Family",Disney Jr (Family) (US) (English)
 http://top-iptv.zapto.org:8000/live/Aria/Aria/558.m3u8
+#EXTINF:-1 tvg-name="BOOMERANG" tvg-logo="" group-title="KIDS",BOOMERANG
+http://31.220.41.88:8081/live/us-boomerang.stream/playlist.m3u8?token=null
+#EXTINF:-1 tvg-name="CARTOON NETWORK" tvg-logo="" group-title="KIDS",CARTOON NETWORK
+http://31.220.41.88:8081/live/us-cartoon.stream/playlist.m3u8?token=null
+#EXTINF:-1 tvg-name="DISNEY" tvg-logo="" group-title="KIDS",DISNEY
+http://31.220.41.88:8081/live/us-disney.stream/playlist.m3u8?token=null
+#EXTINF:-1 tvg-name="DISNEY XD" tvg-logo="" group-title="KIDS",DISNEY XD
+http://31.220.41.88:8081/live/us-disneyxd.stream/playlist.m3u8?token=null
