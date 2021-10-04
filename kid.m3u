@@ -10,3 +10,47 @@ http://31.220.41.88:8081/live/us-cartoon.stream/playlist.m3u8?token=null
 http://31.220.41.88:8081/live/us-disney.stream/playlist.m3u8?token=null
 #EXTINF:-1 tvg-name="DISNEY XD" tvg-logo="" group-title="KIDS",DISNEY XD
 http://31.220.41.88:8081/live/us-disneyxd.stream/playlist.m3u8?token=null
+#EXTINF:-1 tvg-name="CINEMAX" tvg-logo="" group-title="MOVIES",CINEMAX
+http://31.220.41.88:8081/live/us-cinemax.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="CINEMAX ACTION" tvg-logo="" group-title="MOVIES",CINEMAX ACTION
+http://31.220.41.88:8081/live/us-cinemaxaction.stream/token=null
+#EXTINF:-1 tvg-name="HALLMARK" tvg-logo="" group-title="MOVIES",HALLMARK
+http://31.220.41.88:8081/live/us-hallmark.stream/playlist.m3u8?token=null
+#EXTINF:-1 tvg-name="HBO" tvg-logo="" group-title="MOVIES",HBO
+http://31.220.41.88:8081/live/us-hbo.stream/playlist.m3u8?token=null
+#EXTINF:-1 tvg-name="HBO FAMILY" tvg-logo="" group-title="MOVIES",HBO FAMILY
+http://31.220.41.88:8081/live/us-hbofamily.stream/token=null
+#EXTINF:-1 tvg-name="HBO ZONE" tvg-logo="" group-title="MOVIES",HBO ZONE
+http://31.220.41.88:8081/live/us-hbozone.stream/token=null
+#EXTINF:-1 tvg-name="LIFETIME" tvg-logo="" group-title="MOVIES",LIFETIME
+http://31.220.41.88:8081/live/us-lifetime.stream/playlist.m3u8?token=null
+#EXTINF:-1 tvg-name="PARAMOUNT" tvg-logo="" group-title="MOVIES",PARAMOUNT
+http://31.220.41.88:8081/live/us-paramount.stream/playlist.m3u8?token=null
+#EXTINF:-1 tvg-name="SHOWTIME" tvg-logo="" group-title="MOVIES",SHOWTIME
+http://31.220.41.88:8081/live/us-showtime.stream/playlist.m3u8?token=null
+#EXTINF:-1 tvg-name="SHOWTIME 2" tvg-logo="" group-title="MOVIES",SHOWTIME 2
+http://31.220.41.88:8081/live/us-showtime2.stream/token=null
+#EXTINF:-1 tvg-name="SKY MOVIES ACTION & ADVENTURE" tvg-logo="" group-title="MOVIES",SKY MOVIES ACTION & ADVENTURE
+http://31.220.41.88:8081/live/maction.stream/token=null
+#EXTINF:-1 tvg-name="SKY MOVIES COMEDY" tvg-logo="" group-title="MOVIES",SKY MOVIES COMEDY
+http://31.220.41.88:8081/live/mcomedy.stream/token=null
+#EXTINF:-1 tvg-name="SKY MOVIES CRIME & TRILLER" tvg-logo="" group-title="MOVIES",SKY MOVIES CRIME & TRILLER
+http://31.220.41.88:8081/live/mcrime.stream/token=null
+#EXTINF:-1 tvg-name="SKY MOVIES DISNEY" tvg-logo="" group-title="MOVIES",SKY MOVIES DISNEY
+http://31.220.41.88:8081/live/mdisney.stream/token=null
+#EXTINF:-1 tvg-name="SKY MOVIES DRAMA" tvg-logo="" group-title="MOVIES",SKY MOVIES DRAMA
+http://31.220.41.88:8081/live/mdrama.stream/token=null
+#EXTINF:-1 tvg-name="SKY MOVIES FAMILY" tvg-logo="" group-title="MOVIES",SKY MOVIES FAMILY
+http://31.220.41.88:8081/live/mfamily.stream/token=null
+#EXTINF:-1 tvg-name="SKY MOVIES PREMIERE" tvg-logo="" group-title="MOVIES",SKY MOVIES PREMIERE
+http://31.220.41.88:8081/live/mpremiere.stream/playlist.m3u8?token=null
+#EXTINF:-1 tvg-name="STARZ" tvg-logo="" group-title="MOVIES",STARZ
+http://31.220.41.88:8081/live/us-starz.stream/token=null
+#EXTINF:-1 tvg-name="STARZ CINEMA" tvg-logo="" group-title="MOVIES",STARZ CINEMA
+http://31.220.41.88:8081/live/us-starzcinema.stream/token=null
+#EXTINF:-1 tvg-name="STARZ EDGE" tvg-logo="" group-title="MOVIES",STARZ EDGE
+http://31.220.41.88:8081/live/us-starzedge.stream/token=null
+#EXTINF:-1 tvg-name="STARZ ENCORE" tvg-logo="" group-title="MOVIES",STARZ ENCORE
+http://31.220.41.88:8081/live/us-starzencore.stream/token=null
+#EXTINF:-1 tvg-name="SYFY" tvg-logo="" group-title="MOVIES",SYFY
+http://31.220.41.88:8081/live/us-syfy.stream/token=null
