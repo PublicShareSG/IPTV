@@ -1,54 +1,71 @@
-
 #EXTM3U 
-#EXTINF:-1 group-title="KIDS",EBS KIDS
-http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
-#EXTINF:-1 group-title="KIDS",EBS Kids (2)
-http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/playlist.m3u8
-#EXTINF:-1 group-title="KIDS,"HappyKids (1080p)
+#EXTINF:-1 group-title="KIDS",HappyKids
 https://futuretoday-happykids-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="KIDS",HappyKids Junior (720p)
+#EXTINF:-1 group-title="KIDS",HappyKids Junior
 https://happykidsjunior-vizio.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="KIDS",LEGO Channels (720p)
+#EXTINF:-1 group-title="KIDS",LEGO Channels
 https://legochannel-vizio.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="KIDS",Moonbug Kids (1080p)
+#EXTINF:-1 group-title="KIDS",Moonbug Kids
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="KIDS",Pinkfong Baby Shark (1080p)
+#EXTINF:-1 group-title="KIDS",Pinkfong Baby Shark
 https://fc2f8d2d3cec45bb9187e8de15532838.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_BabySharkTV/playlist.m3u8
-#EXTINF:-1 group-title="KIDS",Pluto TV After School Cartoons (720p)
+#EXTINF:-1 group-title="KIDS",Pluto TV After School Cartoons
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/56171fafada51f8004c4b40f/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 group-title="KIDS",TVOKids (360p)
+#EXTINF:-1 group-title="KIDS",TVOKids
 https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8
-#EXTINF:-1 group-title="KIDS",TVS Hi Tops (490p)
+#EXTINF:-1 group-title="KIDS",TVS Hi Tops
 https://rpn1.bozztv.com/36bay2/gusa-hitops/index.m3u8
-#EXTINF:-1 group-title="KIDS",Watch It Kid (720p)
+#EXTINF:-1 group-title="KIDS",Watch It Kid
 https://content.uplynk.com/channel/ce3b524c342247549e996e7d3a977157.m3u8
-#EXTINF:-1 group-title="KIDS",Yo Gabba Gabba! (720p)
+#EXTINF:-1 group-title="KIDS",Yo Gabba Gabba!
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuyogabagaba/CDN/playlist.m3u8
-#EXTINF:-1 group-title="KIDS",Zoo Moo (Australia) (1080p)
+#EXTINF:-1 group-title="KIDS",Zoo Moo (Australia)
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="KIDS",Zoo Moo (720p)
+#EXTINF:-1 group-title="KIDS",Zoo Moo
 https://rockentertainment-zoomoo-1.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-name="BOOMERANG" tvg-logo="" group-title="KIDS",BOOMERANG
+#EXTINF:-1 group-title="KIDS",BOOMERANG
 http://31.220.41.88:8081/live/us-boomerang.stream/playlist.m3u8?token=null
-#EXTINF:-1 tvg-name="CARTOON NETWORK" tvg-logo="" group-title="KIDS",CARTOON NETWORK
+#EXTINF:-1 group-title="KIDS",CARTOON NETWORK
 http://31.220.41.88:8081/live/us-cartoon.stream/playlist.m3u8?token=null
-#EXTINF:-1 tvg-name="DISNEY" tvg-logo="" group-title="KIDS",DISNEY
+#EXTINF:-1 group-title="KIDS",DISNEY
 http://31.220.41.88:8081/live/us-disney.stream/playlist.m3u8?token=null
-#EXTINF:-1 tvg-name="DISNEY XD" tvg-logo="" group-title="KIDS",DISNEY XD
+#EXTINF:-1 group-title="KIDS",DISNEY XD
 http://31.220.41.88:8081/live/us-disneyxd.stream/playlist.m3u8?token=null
 #EXTINF:-1 group-title="KIDS",HBO Family
 https://liveorigin01.hbogoasia.com:8443/origin/live/FAMILY/index.m3u8
-#EXTINF:-1 tvg-name="CINEMAX" tvg-logo="" group-title="MOVIES",CINEMAX
+#EXTINF:-1 group-title="MOVIES",CINEMAX
 http://31.220.41.88:8081/live/us-cinemax.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="HALLMARK" tvg-logo="" group-title="MOVIES",HALLMARK
+#EXTINF:-1 group-title="MOVIES",Cinemax East
+http://31.220.41.88:8081/live/us-cinemax.stream/playlist.m3u8
+#EXTINF:-1 group-title="MOVIES",HALLMARK
 http://31.220.41.88:8081/live/us-hallmark.stream/playlist.m3u8?token=null
-#EXTINF:-1 tvg-name="HBO" tvg-logo="" group-title="MOVIES",HBO
+#EXTINF:-1 group-title="MOVIES",HBO
 http://31.220.41.88:8081/live/us-hbo.stream/playlist.m3u8?token=null
-#EXTINF:-1 tvg-name="LIFETIME" tvg-logo="" group-title="MOVIES",LIFETIME
+#EXTINF:-1 group-title="MOVIES",HBO Asia
+http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+#EXTINF:-1 group-title="MOVIES",LIFETIME
 http://31.220.41.88:8081/live/us-lifetime.stream/playlist.m3u8?token=null
-#EXTINF:-1 tvg-name="PARAMOUNT" tvg-logo="" group-title="MOVIES",PARAMOUNT
+#EXTINF:-1 group-title="MOVIES",PARAMOUNT
 http://31.220.41.88:8081/live/us-paramount.stream/playlist.m3u8?token=null
-#EXTINF:-1 tvg-name="SHOWTIME" tvg-logo="" group-title="MOVIES",SHOWTIME
+#EXTINF:-1 group-title="MOVIES",SHOWTIME
 http://31.220.41.88:8081/live/us-showtime.stream/playlist.m3u8?token=null
-#EXTINF:-1 tvg-name="SKY MOVIES PREMIERE" tvg-logo="" group-title="MOVIES",SKY MOVIES PREMIERE
+#EXTINF:-1 group-title="MOVIES",SKY MOVIES PREMIERE
 http://31.220.41.88:8081/live/mpremiere.stream/playlist.m3u8?token=null
+#EXTINF:-1 group-title="MOVIES",天映电影 (Malayia)
+http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
+#EXTINF:-1 group-title="MOVIES",天映频道 (Indo)
+http://45.126.83.51/qwr9ew/s/s33/01.m3u8
+#EXTINF:-1 group-title="MOVIES",天映频道 (Indo 2)
+http://210.210.155.35/qwr9ew/s/s33/index.m3u8
+#EXTINF:-1 group-title="News",ABC News (US)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-abcnews/CDN/master.m3u8
+#EXTINF:-1 group-title="News",CNN International UK
+https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="News",CNN USA
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 group-title="News",NBC News Now 
+http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8
+#EXTINF:-1 group-title="News",DW English
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1 group-title="News", BBC News
+http://www.filmon.com/vr-streams/27.high/playlist.m3u8
