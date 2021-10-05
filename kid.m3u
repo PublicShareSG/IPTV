@@ -31,7 +31,7 @@ http://31.220.41.88:8081/live/us-cartoon.stream/playlist.m3u8?token=null
 http://31.220.41.88:8081/live/us-disney.stream/playlist.m3u8?token=null
 #EXTINF:-1 group-title="KIDS",DISNEY XD
 http://31.220.41.88:8081/live/us-disneyxd.stream/playlist.m3u8?token=null
-#EXTINF:-1 group-title="KIDS, Family",HBO Family
+#EXTINF:-1 group-title="KIDS",HBO Family
 https://liveorigin01.hbogoasia.com:8443/origin/live/FAMILY/index.m3u8
 #EXTINF:-1 group-title="MOVIES",CINEMAX
 http://31.220.41.88:8081/live/us-cinemax.stream/playlist.m3u8
@@ -41,6 +41,12 @@ http://31.220.41.88:8081/live/us-cinemax.stream/playlist.m3u8
 http://31.220.41.88:8081/live/us-hallmark.stream/playlist.m3u8?token=null
 #EXTINF:-1 group-title="MOVIES",HBO
 http://31.220.41.88:8081/live/us-hbo.stream/playlist.m3u8?token=null
+#EXTINF:-1 group-title="MOVIES",HBO Asia
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
+#EXTINF:-1 group-title="MOVIES",HBO Hits Asia
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
+#EXTINF:-1 group-title="MOVIES",HBO Signature Asia
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
 #EXTINF:-1 group-title="MOVIES",HBO Asia
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES",LIFETIME
@@ -67,5 +73,7 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8
 #EXTINF:-1 group-title="News",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF:-1 group-title="News", BBC News
+#EXTINF:-1 group-title="News",BBC News
 http://www.filmon.com/vr-streams/27.high/playlist.m3u8
+#EXTINF:-1 group-title="News",Sky News
+https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8?serverSideAds=true
