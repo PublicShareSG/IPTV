@@ -31,7 +31,7 @@ http://31.220.41.88:8081/live/us-cartoon.stream/playlist.m3u8?token=null
 http://31.220.41.88:8081/live/us-disney.stream/playlist.m3u8?token=null
 #EXTINF:-1 group-title="KIDS",DISNEY XD
 http://31.220.41.88:8081/live/us-disneyxd.stream/playlist.m3u8?token=null
-#EXTINF:-1 group-title="KIDS",HBO Family
+#EXTINF:-1 group-title="KIDS, Family",HBO Family
 https://liveorigin01.hbogoasia.com:8443/origin/live/FAMILY/index.m3u8
 #EXTINF:-1 group-title="MOVIES",CINEMAX
 http://31.220.41.88:8081/live/us-cinemax.stream/playlist.m3u8
