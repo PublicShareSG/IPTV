@@ -1,45 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/LXtG1xhF/Disney-Channel.png" group-title="KIDS",Disney Channel
-http://185.180.221.194:8278/streams/d/Disneyxd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/LXtG1xhF/Disney-Channel.png" group-title="KIDS",Disney Channel (backup8)
-http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62267
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/LXtG1xhF/Disney-Channel.png" group-title="KIDS",Disney Channel (USA) [HD]
-http://51.79.82.231:8080/US_DISNEY_CHANNEL_EAST_USA/video.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrngYqQj/Disney-Junior.png" group-title="KIDS",Disney Junior
-http://185.180.221.194:8278/streams/d/Disneyjr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrngYqQj/Disney-Junior.png" group-title="KIDS",Disney Junior (backup8)
-http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62266
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrngYqQj/Disney-Junior.png" group-title="KIDS",Disney Junior (USA) [HD]
-http://51.79.82.231:8080/US_DISNEY_JR_EAST_USA/video.m3u8
-
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/LszvJDQG/Disney-XD.png " group-title="KIDS",Disney XD (USA) [HD]
-http://51.79.82.231:8080/US_DISNEY_XD_EAST_USA/video.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/5yNS2gh0/FOX_Movies.png" group-title="FOX",FOX Movies
-http://185.180.221.194:8278/streams/d/Foxmovie/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/5yNS2gh0/FOX_Movies.png" group-title="FOX",FOX Movies (backup8)
-http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62251
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/5yNS2gh0/FOX_Movies.png" group-title="FOX",FOX Movies (backup7)
-https://nonton.site:8443/6894864475/7163819284/98
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x1Q340CY/FOX_Family_Movies.png" group-title="FOX",FOX Family Movies
-http://185.180.221.194:8278/streams/d/Foxfamily/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x1Q340CY/FOX_Family_Movies.png" group-title="FOX",FOX Family Movies (backup8)
-http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62253
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x1Q340CY/FOX_Family_Movies.png" group-title="FOX",FOX Family Movies (backup7)
-https://nonton.site:8443/6894864475/7163819284/14994
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/y8TyqwgR/FOX_Action_Movies.png" group-title="FOX",FOX Action Movies
-http://185.180.221.194:8278/streams/d/Foxactionhd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/y8TyqwgR/FOX_Action_Movies.png" group-title="FOX",FOX Action Movies (backup8)
-http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62250
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/y8TyqwgR/FOX_Action_Movies.png" group-title="FOX",FOX Action Movies (backup7)
-https://nonton.site:8443/6894864475/7163819284/99
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/kMkcWNP2/FOX_Crime.pngg" group-title="FOX",FOX Crime
-http://185.180.221.194:8278/streams/d/Foxcrime/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/kMkcWNP2/FOX_Crime.pngg" group-title="FOX",FOX Crime (backup8)
-http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62254
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/kMkcWNP2/FOX_Crime.png" group-title="FOX",FOX Crime (backup7)
-https://nonton.site:8443/6894864475/7163819284/763
+#EXTINF:-1,HBO Signature
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
+#EXTINF:-1,HBO Hits
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
