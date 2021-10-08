@@ -32,3 +32,5 @@ http://client.ksporttv.com:88/live/ledjonmurati/h1uuuqWJMTm3TdNZ/6287.m3u8
 http://client.ksporttv.com:88/live/ledjonmurati/h1uuuqWJMTm3TdNZ/51473.m3u8
 #EXTINF:-1,TR: DISNEY XD
 http://client.ksporttv.com:88/live/ledjonmurati/h1uuuqWJMTm3TdNZ/51472.m3u8
+#EXTINF:-1 tvg-id="DisneyChannel.id" tvg-name="Disney Channel" tvg-logo="https://cordcutting.com/wp-content/uploads/2017/02/disney-channel-logo.png" group-title="Kids",Disney Channel
+http://45.225.204.7:8000/play/a02k
