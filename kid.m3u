@@ -63,12 +63,23 @@ http://31.220.41.88:8081/live/us-paramount.stream/playlist.m3u8?token=null
 http://31.220.41.88:8081/live/us-showtime.stream/playlist.m3u8?token=null
 #EXTINF:-1 group-title="MOVIES",SKY MOVIES PREMIERE
 http://31.220.41.88:8081/live/mpremiere.stream/playlist.m3u8?token=null
-#EXTINF:-1 group-title="MOVIES",天映电影 (Malayia)
+#EXTINF:-1 group-title="MOVIES",天映频道 (Malayia)
 http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
+#EXTINF:-1 group-title="MOVIES",天映频道 (Malayia) 2
+https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hktypd
 #EXTINF:-1 group-title="MOVIES",天映频道 (Indo)
 http://45.126.83.51/qwr9ew/s/s33/01.m3u8
-#EXTINF:-1 group-title="MOVIES",天映频道 (Indo 2)
+#EXTINF:-1 group-title="MOVIES",天映频道 (Indo) 2
 http://210.210.155.35/qwr9ew/s/s33/index.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/LSTIME.png",龙祥电影
+https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twlxdy
+#EXTINF:-1 group-title="MOVIES" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCMovies.png",东森电影
+https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twdsdy
+#EXTINF:-1 group-title="MOVIES" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarChineseMovies.png",卫视电影
+https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twwsdy
+#EXTINF:-1 group-title="MOVIES" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/meiyamovie.png",美亚电影
+https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twmydy
+#EXTINF:-1 group-title="MOVIES" tvg-logo="http://epg.51zmt.t
 #EXTINF:-1 group-title="News",ABC News (US)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-abcnews/CDN/master.m3u8
 #EXTINF:-1 group-title="News",CNN International UK
