@@ -1,27 +1,17 @@
 #EXTM3U
-#EXTINF:-1,FOX Action HD
-http://190.5.114.14:8080/play/a0qo/index.m3u8
-#EXTINF:-1,FOX Comedy HD
-http://190.5.114.14:8080/play/a0rl/index.m3u8
-#EXTINF:-1,FOX Family HD
-http://190.5.114.14:8080/play/a0qp/index.m3u8
-#EXTINF:-1,FOX HD
-http://190.5.114.14:8080/play/a0p1/index.m3u8
-#EXTINF:-1,FOX LIFE
-http://190.5.114.14:8080/play/a0pn/index.m3u8
-#EXTINF:-1,FOX Movies HD
-http://190.5.114.14:8080/play/a0qn/index.m3u8
-#EXTINF:-1,FOX SPORTS 2 HD
-http://190.5.114.14:8080/play/a0qe/index.m3u8
-#EXTINF:-1,FOX SPORTS 3 HD
-http://190.5.114.14:8080/play/a0rb/index.m3u8
-#EXTINF:-1,FOX Series HD
-http://190.5.114.14:8080/play/a0qm/index.m3u8
-#EXTINF:-1,FOX Sports 2
-http://190.5.114.14:8080/play/a0sj/index.m3u8
-#EXTINF:-1,FOX+ACT
-http://190.5.114.14:8080/play/a0so/index.m3u8
-#EXTINF:-1,FOX+CLA
-http://190.5.114.14:8080/play/a0sq/index.m3u8
-#EXTINF:-1,FOX+FAM
-http://190.5.114.14:8080/play/a0sp/index.m3u8
+#EXTINF:-1 tvg-logo=https://i.postimg.cc/7ZJrXD5z/foxfam.png group-title=MOVIES,FOX Family Movies
+http://185.180.221.194:8278/streams/d/Foxfamily/playlist.m3u8
+#EXTINF:-1 tvg-logo=https://i.postimg.cc/MH6BwdC7/hbofamily-logo.jpg group-title=MOVIES,HBO FAMILY
+http://51.79.164.123:25461/v1tvn0tforsale/aslkdjsdgsu8908903820489204902sjkjksnf098098324msdfs0f89123u1uhid98ads/68
+http://iptvtree.net:8080/test-2accba/8702/197055
+http://36.37.252.114:888/Apple/OneTV-033/playlist.m3u8
+http://tvku.live:8888/Tamtowi/mY6WYb498C/30184
+http://iptvtree.net:8080/13354/27c12697/197055
+#EXTINF:-1 tvg-logo=https://i.postimg.cc/7ZJrXD5z/foxfam.png group-title=MOVIES,FOX Family Movies
+http://51.79.164.123:25461/v1tvn0tforsale/aslkdjsdgsu8908903820489204902sjkjksnf098098324msdfs0f89123u1uhid98ads/21
+http://iptvtree.net:8080/test-2accba/8702/157477
+http://185.238.0.145:1313/c/ku/foxfamilymovies.m3u8
+http://iya.mba:8888/Tamtowi/mY6WYb498C/14994
+http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/11383
+#EXTINF:-1 tvg-logo=https://i.postimg.cc/MH6BwdC7/hbofamily-logo.jpg group-title=MOVIES,HBO FAMILY
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/135659
