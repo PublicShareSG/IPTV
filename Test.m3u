@@ -1,36 +1,27 @@
 #EXTM3U
-#EXTINF:-1,|CA| DISNEY
-http://s1.showplustv.com:1997/live/amigozdcAF223DCC/zfaifhoOZf5616@@azfj!!/60165.m3u8
-#EXTINF:-1,|CA| DISNEY JR HD
-http://s1.showplustv.com:1997/live/amigozdcAF223DCC/zfaifhoOZf5616@@azfj!!/60166.m3u8
-#EXTINF:-1,|CA| DISNEY JUNIOR
-http://s1.showplustv.com:1997/live/amigozdcAF223DCC/zfaifhoOZf5616@@azfj!!/60167.m3u8
-#EXTINF:-1,|CA| DISNEY XD HD
-http://s1.showplustv.com:1997/live/amigozdcAF223DCC/zfaifhoOZf5616@@azfj!!/60168.m3u8
-#EXTINF:0 tvg-id="SkyMoviesDisney.uk" group-title="SYRIAN",UK: Sky Cinema Disney FHD
-http://starsat123.com:8080/live/obsexchange/telgrammm/22423.m3u8
-#EXTINF:0 tvg-id="DisneyXD.uk" group-title="UK | DOCUMENTARIES",UK: Disney XD
-http://starsat123.com:8080/live/obsexchange/telgrammm/60464.m3u8
-#EXTINF:0 tvg-id="Disney.uk" group-title="UK | DOCUMENTARIES",UK: Disney Channel
-http://starsat123.com:8080/live/obsexchange/telgrammm/60465.m3u8
-#EXTINF:0 tvg-id="DisneyJunior.uk" group-title="UK | DOCUMENTARIES",UK: Disney Junior
-#EXTINF:0 tvg-id="SkyMoviesDisney.uk" group-title="SKY UK MOVIES HD",UK: SKY CINEMA DISNEY HD
-http://starsat123.com:8080/live/obsexchange/telgrammm/60966.m3u8
-#EXTINF:-1,|DE| DISNEY XD HD
-http://s1.showplustv.com:1997/live/amigozdcAF223DCC/zfaifhoOZf5616@@azfj!!/17654.m3u8
-#EXTINF:-1,|DE| DISNEY JUNIOR HD
-http://s1.showplustv.com:1997/live/amigozdcAF223DCC/zfaifhoOZf5616@@azfj!!/17655.m3u8
-#EXTINF:-1,|DE| DISNEY CINEMAGIC HD
-http://s1.showplustv.com:1997/live/amigozdcAF223DCC/zfaifhoOZf5616@@azfj!!/17656.m3u8
-#EXTINF:-1,|DE| DISNEY CHANNEL HD
-#EXTINF:-1,SE: Disney Channel
-http://client.ksporttv.com:88/live/ledjonmurati/h1uuuqWJMTm3TdNZ/6254.m3u8
-#EXTINF:-1,SE: Disney Junior
-http://client.ksporttv.com:88/live/ledjonmurati/h1uuuqWJMTm3TdNZ/6287.m3u8
-#EXTINF:-1,SE: Disney XD
-#EXTINF:-1,TR: DISNEY JUNIOR
-http://client.ksporttv.com:88/live/ledjonmurati/h1uuuqWJMTm3TdNZ/51473.m3u8
-#EXTINF:-1,TR: DISNEY XD
-http://client.ksporttv.com:88/live/ledjonmurati/h1uuuqWJMTm3TdNZ/51472.m3u8
-#EXTINF:-1 tvg-id="DisneyChannel.id" tvg-name="Disney Channel" tvg-logo="https://cordcutting.com/wp-content/uploads/2017/02/disney-channel-logo.png" group-title="Kids",Disney Channel
-http://45.225.204.7:8000/play/a02k
+#EXTINF:-1,FOX Action HD
+http://190.5.114.14:8080/play/a0qo/index.m3u8
+#EXTINF:-1,FOX Comedy HD
+http://190.5.114.14:8080/play/a0rl/index.m3u8
+#EXTINF:-1,FOX Family HD
+http://190.5.114.14:8080/play/a0qp/index.m3u8
+#EXTINF:-1,FOX HD
+http://190.5.114.14:8080/play/a0p1/index.m3u8
+#EXTINF:-1,FOX LIFE
+http://190.5.114.14:8080/play/a0pn/index.m3u8
+#EXTINF:-1,FOX Movies HD
+http://190.5.114.14:8080/play/a0qn/index.m3u8
+#EXTINF:-1,FOX SPORTS 2 HD
+http://190.5.114.14:8080/play/a0qe/index.m3u8
+#EXTINF:-1,FOX SPORTS 3 HD
+http://190.5.114.14:8080/play/a0rb/index.m3u8
+#EXTINF:-1,FOX Series HD
+http://190.5.114.14:8080/play/a0qm/index.m3u8
+#EXTINF:-1,FOX Sports 2
+http://190.5.114.14:8080/play/a0sj/index.m3u8
+#EXTINF:-1,FOX+ACT
+http://190.5.114.14:8080/play/a0so/index.m3u8
+#EXTINF:-1,FOX+CLA
+http://190.5.114.14:8080/play/a0sq/index.m3u8
+#EXTINF:-1,FOX+FAM
+http://190.5.114.14:8080/play/a0sp/index.m3u8
