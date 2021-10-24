@@ -19,13 +19,13 @@ https://content.uplynk.com/channel/ce3b524c342247549e996e7d3a977157.m3u8
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuyogabagaba/CDN/playlist.m3u8
 #EXTINF:-1 group-title="KIDS",Zoo Moo (Australia)
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="MOVIES",HBO
+#EXTINF:-1 group-title="MOVIES",HBO Singapore
 https://gratismkctv.net/film/hbo.m3u8
 #EXTINF:-1 group-title="KIDS",HBO Family
 https://liveorigin01.hbogoasia.com:8443/origin/live/FAMILY/index.m3u8
 #EXTINF:-1 group-title="MOVIES",HBO Asia
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
-#EXTINF:-1 group-title="MOVIES",HBO Asia,Taiwan
+#EXTINF:-1 group-title="MOVIES",HBO Taiwan
 http://50.7.61.148:30080/Entry/hbo
 #EXTINF:-1 group-title="MOVIES",HBO Malaysia
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
