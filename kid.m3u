@@ -5,8 +5,6 @@ https://futuretoday-happykids-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
 https://happykidsjunior-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="KIDS",LEGO Channels
 https://legochannel-vizio.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="KIDS",Moonbug Kids
-https://moonbug-rokuus.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="KIDS",Pinkfong Baby Shark
 https://fc2f8d2d3cec45bb9187e8de15532838.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_BabySharkTV/playlist.m3u8
 #EXTINF:-1 group-title="KIDS",Pluto TV After School Cartoons
@@ -21,54 +19,18 @@ https://content.uplynk.com/channel/ce3b524c342247549e996e7d3a977157.m3u8
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuyogabagaba/CDN/playlist.m3u8
 #EXTINF:-1 group-title="KIDS",Zoo Moo (Australia)
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="KIDS",Zoo Moo
-https://rockentertainment-zoomoo-1.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="KIDS",BOOMERANG
-http://31.220.41.88:8081/live/us-boomerang.stream/playlist.m3u8?token=null
-#EXTINF:-1 group-title="KIDS",CARTOON NETWORK
-http://31.220.41.88:8081/live/us-cartoon.stream/playlist.m3u8?token=null
-#EXTINF:-1 group-title="KIDS",DISNEY
-http://31.220.41.88:8081/live/us-disney.stream/playlist.m3u8?token=null
-#EXTINF:-1 group-title="KIDS",DISNEY XD
-http://31.220.41.88:8081/live/us-disneyxd.stream/playlist.m3u8?token=null
-#EXTINF:-1 group-title="KIDS",DISCOVERY CHANNEL
-http://31.220.41.88:8081/live/us-discovery.stream/playlist.m3u8
-#EXTINF:-1 group-title="KIDS",#EXTINF:-1,Nick
-http://31.220.41.88:8081/live/us-nick.stream/playlist.m3u8?token=null
-#EXTINF:-1 group-title="MOVIES",CINEMAX
-http://31.220.41.88:8081/live/us-cinemax.stream/playlist.m3u8
-#EXTINF:-1 group-title="MOVIES",Cinemax East
-http://31.220.41.88:8081/live/us-cinemax.stream/playlist.m3u8
-#EXTINF:-1 group-title="MOVIES",HALLMARK
-http://31.220.41.88:8081/live/us-hallmark.stream/playlist.m3u8?token=null
 #EXTINF:-1 group-title="MOVIES",HBO
 https://gratismkctv.net/film/hbo.m3u8
-#EXTINF:-1 group-title="MOVIES",HBO 2
-http://31.220.41.88:8081/live/us-hbo.stream/playlist.m3u8?token=null
 #EXTINF:-1 group-title="KIDS",HBO Family
 https://liveorigin01.hbogoasia.com:8443/origin/live/FAMILY/index.m3u8
 #EXTINF:-1 group-title="MOVIES",HBO Asia
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 #EXTINF:-1 group-title="MOVIES",HBO Asia,Taiwan
 http://50.7.61.148:30080/Entry/hbo
-#EXTINF:-1 group-title="MOVIES",HBO Hits Asia - Offline
-http://185.180.221.194:8278/streams/d/Hbohits/playlist.m3u8
-#EXTINF:-1 group-title="MOVIES",HBO Signature Asia - Offline
-http://185.180.221.194:8278/streams/d/Hbosignature/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES",HBO Malaysia
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
-#EXTINF:-1 group-title="MOVIES",LIFETIME
-http://31.220.41.88:8081/live/us-lifetime.stream/playlist.m3u8?token=null
-#EXTINF:-1 group-title="MOVIES",PARAMOUNT
-http://31.220.41.88:8081/live/us-paramount.stream/playlist.m3u8?token=null
-#EXTINF:-1 group-title="MOVIES",SHOWTIME
-http://31.220.41.88:8081/live/us-showtime.stream/playlist.m3u8?token=null
-#EXTINF:-1 group-title="MOVIES",SKY MOVIES PREMIERE
-http://31.220.41.88:8081/live/mpremiere.stream/playlist.m3u8?token=null
 #EXTINF:-1 group-title="MOVIES",天映频道 (Malayia)
 http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
-#EXTINF:-1 group-title="MOVIES",天映频道 (Malayia) 2
-https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hktypd
 #EXTINF:-1 group-title="MOVIES",天映频道 (Indo)
 http://45.126.83.51/qwr9ew/s/s33/01.m3u8
 #EXTINF:-1 group-title="MOVIES",天映频道 (Indo) 2
