@@ -6,8 +6,6 @@ http://livetv.dnsfor.me:80/channel.18.m3u8
 #EXTINF:-1 tvg-id="81" tvg-name="翡翠台 (中英字幕)" tvg-logo="https://www.hkdtmb.com/png_logo/81.png" group-title="無綫",翡翠台 (3)
 https://cdn.hkdtmb.com/hls/81b/index.m3u8
 #EXTINF:-1 tvg-id="81" tvg-name="翡翠台" tvg-logo="https://www.hkdtmb.com/png_logo/81.png" group-title="無綫",翡翠台 (4)
-https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hkjade
-#EXTINF:-1 tvg-id="81" tvg-name="翡翠台" tvg-logo="https://www.hkdtmb.com/png_logo/81.png" group-title="無綫",翡翠台 (5)
 http://185.207.176.189:8080/channels/tv-81/playlist.m3u8
 #EXTINF:-1 tvg-id="83" tvg-name="無綫新聞台" tvg-logo="https://www.hkdtmb.com/png_logo/83.png" group-title="無綫",無綫新聞台
 https://cdn.hkdtmb.com/hls/83/index.m3u8
