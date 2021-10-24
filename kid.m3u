@@ -55,7 +55,7 @@ http://50.7.61.148:30080/Entry/hbo
 http://185.180.221.194:8278/streams/d/Hbohits/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES",HBO Signature Asia - Offline
 http://185.180.221.194:8278/streams/d/Hbosignature/playlist.m3u8
-#EXTINF:-1 group-title="MOVIES",HBO Asia (2)
+#EXTINF:-1 group-title="MOVIES",HBO Malaysia
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES",LIFETIME
 http://31.220.41.88:8081/live/us-lifetime.stream/playlist.m3u8?token=null
@@ -73,14 +73,6 @@ https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hktypd
 http://45.126.83.51/qwr9ew/s/s33/01.m3u8
 #EXTINF:-1 group-title="MOVIES",天映频道 (Indo) 2
 http://210.210.155.35/qwr9ew/s/s33/index.m3u8
-#EXTINF:-1 group-title="MOVIES",龙祥电影
-https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twlxdy
-#EXTINF:-1 group-title="MOVIES",东森电影
-https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twdsdy
-#EXTINF:-1 group-title="MOVIES",卫视电影
-https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twwsdy
-#EXTINF:-1 group-title="MOVIES",美亚电影
-https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twmydy
 #EXTINF:-1 group-title="MOVIES" tvg-logo="http://epg.51zmt.t
 #EXTINF:-1 group-title="News",ABC News (US)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-abcnews/CDN/master.m3u8
