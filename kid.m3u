@@ -23,6 +23,8 @@ https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 https://gratismkctv.net/film/hbo.m3u8
 #EXTINF:-1 group-title="KIDS",HBO Family
 https://liveorigin01.hbogoasia.com:8443/origin/live/FAMILY/index.m3u8
+#EXTINF:-1 tvg-id="FFM.Asia" tvg-logo="https://foxfamilymovies.foxmoviesasia.com/images/ffm.png" group-title="KIDS",Fox Family Movies
+https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="MOVIES",HBO Asia
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 #EXTINF:-1 group-title="MOVIES",HBO Taiwan
