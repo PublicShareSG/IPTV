@@ -21,19 +21,8 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuyogabagaba/CDN/playlist.m3u8
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES",HBO Singapore
 https://gratismkctv.net/film/hbo.m3u8
-#EXTINF:-1 group-title="KIDS",HBO Family
+#EXTINF:-1 tvg-id="HBO Family" tvg-logo="https://i.postimg.cc/JhDcYv4M/10626274-ico.png" group-title="KIDS",HBO Family
 https://liveorigin01.hbogoasia.com:8443/origin/live/FAMILY/index.m3u8
-#EXTINF:-1 tvg-id="HBO Family" tvg-logo="https://i.postimg.cc/JhDcYv4M/10626274-ico.png" group-title="Movie",HBO FAMILY2
-https://www.dropbox.com/s/dl/6xv5cc5aft0g64j/carawaktv-hbofam.m3u8
-#EXTINF:-1 tvg-id="HBO Family" tvg-logo="https://i.postimg.cc/JhDcYv4M/10626274-ico.png" group-title="Movie",HBO FAMILY [VSN+]
-https://dl.dropboxusercontent.com/s/64835cjvpiy9gzc/FAMILY-SD.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gkmscg4H/10626710-ico.png" group-title="Movie",FOX FAMILY MOVIES
-#https://nonton.site:8443/provision/pp/14994
-http://185.180.221.194:8278/streams/d/Foxfamily/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gkmscg4H/10626710-ico.png" group-title="Movie",FOX FAMILY MOVIES [VSN+]
-https://liveanevia.mncnow.id/live/eds/FoxFamilyMovies/sa_dash_vmx/FoxFamilyMovies.mpd
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gkmscg4H/10626710-ico.png" group-title="Movie",FOX FAMILY MOVIES [VN]
-#http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXFAMILY-HD-1080p/chunks.m3u8
 #EXTINF:-1 group-title="MOVIES",HBO Asia
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 #EXTINF:-1 group-title="MOVIES",HBO Taiwan
