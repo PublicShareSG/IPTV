@@ -15,6 +15,8 @@ http://livetv.dnsfor.me:80/channel.11.m3u8
 http://livetv.dnsfor.me:80/channel.3.m3u8
 #EXTINF:-1 group-title="香港",Now新聞台
 http://livetv.dnsfor.me:80/channel.4.m3u8
+#EXTINF:-1 group-title="香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png",凤凰香港
+http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
 #EXTINF:-1 group-title="澳门",澳视澳门
 http://61.244.22.4/ch1/ch1.live/playelist.m3u8
 #EXTINF:-1 group-title="澳门",澳视澳门-离线
@@ -27,3 +29,5 @@ https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
 http://media.fantv.hk/m3u8/archive/channel2.m3u8
 #EXTINF:-1 group-title="香港",香港衛視
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1 group-title="香港"  tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/60/Mei_Ah_Movies_Channel_logo.png",美亚电影台粤语
+http://iptv.tvfix.org/hls/mydy.m3u8
