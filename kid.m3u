@@ -29,6 +29,8 @@ http://211.23.114.106:8559/http/116.50.42.19:8081/hls/71/813/ch42.m3u8
 http://50.7.61.148:30080/Entry/hbo
 #EXTINF:-1 group-title="MOVIES",天映频道 (Malayia) - Offline
 http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
+#EXTINF:-1 group-title="MOVIES"  tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/60/Mei_Ah_Movies_Channel_logo.png",美亚电影台粤语
+http://iptv.tvfix.org/hls/mydy.m3u8
 #EXTINF:-1 group-title="News",ABC News (US)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-abcnews/CDN/master.m3u8
 #EXTINF:-1 group-title="News",CNN International UK
