@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="81" tvg-name="翡翠台" tvg-logo="https://www.hkdtmb.com/png_logo/81.png" group-title="香港",翡翠台 1
-http://113.64.147.73:808/hls/67/index.m3u8
+mitv://ns2.hellotvvod.com:9906/454cd2639f0d4623b05f7ff5e8152de8
 #EXTINF:-1 tvg-id="81" tvg-name="翡翠台" tvg-logo="https://www.hkdtmb.com/png_logo/81.png" group-title="香港",翡翠台 2
-http://113.64.147.116:808/hls/67/index.m3u8
+http://radius.8866.org:880/hls/80/index.m3u8
 #EXTINF:-1 tvg-id="81" tvg-name="翡翠台" tvg-logo="https://www.hkdtmb.com/png_logo/81.png" group-title="香港",翡翠台 3
 http://113.64.147.18:808/hls/67/index.m3u8
 #EXTINF:-1 tvg-id="83" tvg-name="無綫新聞台" tvg-logo="https://www.hkdtmb.com/png_logo/83.png" group-title="香港",無綫新聞台 1 
